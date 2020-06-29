@@ -6,5 +6,16 @@ A partir da tensão de 127V/220V vinda da tomada, desenvolver uma  fonte que mod
 
 ## Componentes que irão ser utilizados:
 
-
-
+|Componente|Especificação|Valor|
+|---|---|---|
+|Resistor|||
+|Resistor|||
+|Resistor|||
+|Resistor|||
+|Diodo de Zener|||
+|Potenciômetro|||
+|Transistor|||
+|Ponte retificadora|||
+|Transformador|||
+|Capacitor|||
+|LED|||
