@@ -4,3 +4,7 @@ Projeto da disciplina SSC0180 ([Eletrônica para Computação](https://uspdigita
 ## Especificações: 
 A partir da tensão de 127V/220V vinda da tomada, desenvolver uma  fonte que modulariza a corrente alternada (CA) em uma corrente contínua (CC) com saída ajustável de 3V a 12V. Desta forma fornecendo uma capacidade de 100mA.
 
+## Componentes que irão ser utilizados:
+
+
+
