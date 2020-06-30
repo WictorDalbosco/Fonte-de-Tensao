@@ -19,3 +19,7 @@ A partir da tensão de 127V/220V vinda da tomada, desenvolver uma  fonte que mod
 |Transformador|||
 |Capacitor|||
 |LED|||
+
+## Os componentes
+
+-Tranformador: Componente responsável pela redução da ddp de 127V a corrente que vem da tomada para os valores que serão utilizados no projeto(3-12V).
