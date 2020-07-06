@@ -11,7 +11,7 @@ A partir da tensão de 127V/220V vinda da tomada, desenvolver uma  fonte que mod
 |Transformador (Trafo)|127 / 24V|[R$24,99](https://produto.mercadolivre.com.br/MLB-1299130767-transformador-1212v-1a-trafo-bivolt-_JM?matt_tool=82322591&matt_word&gclid=EAIaIQobChMI8srS-8u46gIVBg-RCh0u1QKkEAQYASABEgJmHfD_BwE&quantity=1)|
 |4 Diodos (Ponte retificadora)|1N4007|[R$0,25](https://www.baudaeletronica.com.br/diodo-1n4007.html)|
 |Capacitor Eletrolítico|470 μF 50V|[R$0,33](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-25v.html)|
-|Diodo de Zener|1N4742A 16V|[R$0,25](https://www.baudaeletronica.com.br/diodo-zener-1n4742a-9v1-1w.html)|
+|Diodo de Zener|1N4743A 16V|[R$0,20](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)|
 |Potenciômetro Rotativo|5kΩ|[R$1,09](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)|
 |Transistor NPN|BC337|[R$0,17](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)|
 |Resistor|470Ω|[R$0,08](https://www.baudaeletronica.com.br/resistor-470r-5-1-4w.html)|
