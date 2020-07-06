@@ -49,7 +49,7 @@ A partir da tensão de 127V/220V vinda da tomada, desenvolver uma  fonte que mod
 - Para escolher o diodo zener, checamos o datasheet:
 ![](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Imagens%20DataSheets/DataSheetZenerNovo.png)
 
-Como a corrente mínima é igual a 21mA e a tensão que chega no circuito é cerca de 18V e a de saída do zener é 12V, deve ter uma queda de 6V no resistor. Colocando um resistor de 470 ohms, facilmente encontrado no mercado, a corrente do zener foi menor que 21mA e atingiu-se o valor final desejado da fonte;
+Como a corrente mínima é igual a 19mA e a tensão que chega no circuito é cerca de 18V e a de saída do zener é 13V, deve ter uma queda de 5V no resistor. Colocando um resistor de 470 ohms, facilmente encontrado no mercado, a corrente do zener foi menor que 19mA e atingiu-se o valor final desejado da fonte.
 
 - Para escolher o potenciômetro de 10k e o resistor de 2k, escolhemos valores facilmente encontrados no mercado e que possibilitam atingir o valor desejado na saída da fonte;
 
