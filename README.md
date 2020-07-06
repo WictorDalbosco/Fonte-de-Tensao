@@ -47,7 +47,7 @@ A partir da tensão de 127V/220V vinda da tomada, desenvolver uma  fonte que mod
 - Para escolher o capacitor, levamos em consideração os valores padrão disponíveis no mercado e que geram uma redução de ripple aceitável para o projeto;
 
 - Para escolher o diodo zener, checamos o datasheet:
-![](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Imagens%20DataSheets/DataSheetZener.png)
+![](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Imagens%20DataSheets/DataSheetZenerNovo.png)
 
 Como a corrente mínima é igual a 21mA e a tensão que chega no circuito é cerca de 18V e a de saída do zener é 12V, deve ter uma queda de 6V no resistor. Colocando um resistor de 470 ohms, facilmente encontrado no mercado, a corrente do zener foi menor que 21mA e atingiu-se o valor final desejado da fonte;
 
