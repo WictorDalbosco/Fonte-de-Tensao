@@ -58,6 +58,7 @@ Como a corrente mínima é igual a 19mA e a tensão que chega no circuito é cer
 
 ## Circuito no Eagle
 
+
 ### Projeto esquemático
 ![Circuito projetado no EAGLE](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Imagens%20DataSheets/Fonte-esquemático.PNG)
 
@@ -65,7 +66,10 @@ Como a corrente mínima é igual a 19mA e a tensão que chega no circuito é cer
 ![Projeto da fonte feito no EAGLE](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Imagens%20DataSheets/Circuito-EAGLE.PNG)
 
 ## Slides sobre o projeto
-[Ir para os Slides](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Eletrônica-para-computação.pdf)
+![Ir para os Slides](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Eletrônica-para-computação.pdf)
+
+## Video do projeto
+[]()
 
 
 
