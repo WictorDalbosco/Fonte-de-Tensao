@@ -8,7 +8,7 @@ A partir da tensão de 127V/220V vinda da tomada, desenvolver uma  fonte que mod
 
 |Componente|Especificação|Valor|
 |---|---|---|
-|Tranformador Trafo 12+12V |127 / 24V|[R$24,99](https://produto.mercadolivre.com.br/MLB-1299130767-transformador-1212v-1a-trafo-bivolt-_JM?matt_tool=82322591&matt_word&gclid=EAIaIQobChMI8srS-8u46gIVBg-RCh0u1QKkEAQYASABEgJmHfD_BwE&quantity=1)|
+|Tranformador (Trafo)|127 / 24V|[R$24,99](https://produto.mercadolivre.com.br/MLB-1299130767-transformador-1212v-1a-trafo-bivolt-_JM?matt_tool=82322591&matt_word&gclid=EAIaIQobChMI8srS-8u46gIVBg-RCh0u1QKkEAQYASABEgJmHfD_BwE&quantity=1)|
 |4 Diodos (Ponte retificadora)|1N4007|[R$0,25](https://www.baudaeletronica.com.br/diodo-1n4007.html)|
 |Capacitor|470 μF 50V|[R$0,33](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-25v.html)|
 |Diodo de Zener|1N4745A 16V|[R$0,25](https://www.baudaeletronica.com.br/diodo-zener-1n4745a-16v-1w.html)|
@@ -16,7 +16,7 @@ A partir da tensão de 127V/220V vinda da tomada, desenvolver uma  fonte que mod
 |Transistor NPN|BC337|[R$0,17](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)|
 |Resistor|470Ω|[R$0,08](https://www.baudaeletronica.com.br/resistor-470r-5-1-4w.html)|
 |Resistor|1kΩ|[R$0.08](https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html)|
-|Resistor|2kΩ|[0,08](https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html)|
+|Resistor|2kΩ|[R$0,08](https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html)|
 
 
 ## Os componentes
@@ -33,6 +33,14 @@ A partir da tensão de 127V/220V vinda da tomada, desenvolver uma  fonte que mod
 
 - Potenciômetro + resistor, o resistor é utilizado para limitar a corrente do ramo caso o potenciômetro esteja com resistência nula. São utilizados para variar a tensão na carga;
 
-- Transistor bipolar NPN, é utilizado para, a partir de uma pequena corrente de base, controlar a corrente que chega a carga;
+- Transistor bipolar NPN, é utilizado para, a partir de uma pequena corrente de base, controlar a corrente que chega a carga.
+
+## Escolha dos Componentes
+
+- Para escolher a fonte, utilizamos a tensão que chega às residências, pois o objetivo do projeto é justamente fazer uma fonte que seja de fácil uso;
+
+- Para escolher o transformador, consideramos que ele aguenta 127V no primário, tendo uma saída no secundário de no mínimo 12V, que pode ser adquirido ao utilizar o tap central do trafo escolhido. Além disso, o transformador deve ser capaz de aguentar a corrente do circuito, que é igual a 100mA;
+
+- 
 
 
