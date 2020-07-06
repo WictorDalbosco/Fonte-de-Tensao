@@ -39,7 +39,7 @@ A partir da tensão de 127V/220V vinda da tomada, desenvolver uma  fonte que mod
 
 - Para escolher a fonte, utilizamos a tensão que chega às residências, pois o objetivo do projeto é justamente fazer uma fonte que seja de fácil uso;
 
-- Para escolher o transformador, consideramos que ele aguenta 127V no primário, tendo uma saída no secundário de no mínimo 12V, que pode ser adquirido ao utilizar o tap central do trafo escolhido. Além disso, o transformador deve ser capaz de aguentar a corrente do circuito, que é igual a 100mA;
+- Para escolher o transformador, consideramos que ele aguenta 127V no primário, tendo uma saída no secundário de no mínimo 13V, que pode ser adquirido ao utilizar o tap central do trafo escolhido. Além disso, o transformador deve ser capaz de aguentar a corrente do circuito, que é igual a 100mA;
 
 - Para escolher os diodos, checamos o datasheet:
 ![](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Imagens%20DataSheets/DataSheetDiode.png)
