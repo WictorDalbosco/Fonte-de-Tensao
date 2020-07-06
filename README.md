@@ -21,7 +21,7 @@ A partir da tensão de 127V/220V vinda da tomada, desenvolver uma  fonte que mod
 
 ## Os componentes
 
-- Fonte AC de frequência 60Hz e tensão nominal(Vrms) de 127V, sendo a tensão de pico 127*√2 ≃ 180V;
+- Fonte AC de frequência 60Hz e tensão nominal(VRMS) de 127V, sendo a tensão de pico 127*√2 ≃ 180V;
 
 - Transformador (Trafo) com a VRMS primária de 127V e secundário de 12V, utilizado para a transformação de tensão, reduzindo a amplitude da onda;
 
