@@ -56,6 +56,10 @@ Como a corrente mínima é igual a 21mA e a tensão que chega no circuito é cer
 - Para escolher o transistor, checamos o datasheet:
 ![](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Imagens%20DataSheets/DataSheetTransistor.png)
 
+## Circuito simulado no Falstad
+
+![Colocar Imagem]()
+
 ## Circuito no Eagle
 
 ![Projeto da fonte feito no EAGLE](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Imagens%20DataSheets/circuito-eagle.PNG)
