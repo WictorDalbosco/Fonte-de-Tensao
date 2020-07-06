@@ -42,18 +42,18 @@ A partir da tensão de 127V/220V vinda da tomada, desenvolver uma  fonte que mod
 - Para escolher o transformador, consideramos que ele aguenta 127V no primário, tendo uma saída no secundário de no mínimo 12V, que pode ser adquirido ao utilizar o tap central do trafo escolhido. Além disso, o transformador deve ser capaz de aguentar a corrente do circuito, que é igual a 100mA;
 
 - Para escolher os diodos, checamos o datasheet:
-![]()
+![](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Imagens%20DataSheets/DataSheetDiode.png)
 
 - Para escolher o capacitor, levamos em consideração os valores padrão disponíveis no mercado e que geram uma redução de ripple aceitável para o projeto;
 
 - Para escolher o diodo zener, checamos o datasheet:
-![]()
+![](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Imagens%20DataSheets/DataSheetZener.png)
 
 Como a corrente mínima é igual a 21mA e a tensão que chega no circuito é cerca de 18V e a de saída do zener é 12V, deve ter uma queda de 6V no resistor. Colocando um resistor de 470 ohms, facilmente encontrado no mercado, a corrente do zener foi menor que 21mA e atingiu-se o valor final desejado da fonte;
 
 - Para escolher o potenciômetro de 10k e o resistor de 2k, escolhemos valores facilmente encontrados no mercado e que possibilitam atingir o valor desejado na saída da fonte;
 
 - Para escolher o transistor, checamos o datasheet:
-![]()
+![](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Imagens%20DataSheets/DataSheetTransistor.png)
 
 
