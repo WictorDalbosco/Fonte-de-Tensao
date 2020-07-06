@@ -63,3 +63,5 @@ Como a corrente mínima é igual a 21mA e a tensão que chega no circuito é cer
 
 ## [Slides sobre o projeto](shorturl.at/cvxQ8)
 
+![](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Eletrônica-para-computação.pdf)
+
