@@ -58,7 +58,7 @@ Como a corrente mínima é igual a 21mA e a tensão que chega no circuito é cer
 
 ## Circuito no Eagle
 
-![](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Imagens%20DataSheets/circuito-eagle.png)
+![](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Imagens%20DataSheets/circuito-eagle.PNG)
 
 ## [Slides sobre o projeto](https://www.canva.com/design/DAEAlbTGoUc/2VlO1po08ge31gue-UMLTg/view?utm_content=DAEAlbTGoUc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
