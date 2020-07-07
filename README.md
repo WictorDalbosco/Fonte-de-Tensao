@@ -69,7 +69,7 @@ Como a corrente mínima é igual a 19mA e a tensão que chega no circuito é cer
 ![Ir para os Slides](https://github.com/WictorDalbosco/Fonte-de-Tensao/blob/master/Eletrônica-para-computação.pdf)
 
 ## Video do projeto
-[Ir para a apresentação](https://youtu.be/R_1jAGBPNy4)
+[Ir para a apresentação do projeto](https://youtu.be/R_1jAGBPNy4)
 
 
 
