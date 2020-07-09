@@ -14,9 +14,8 @@ A partir da tensão de 127V/220V vinda da tomada, desenvolver uma  fonte que mod
 |Diodo de Zener|1N4743A 13V|[R$0,20](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)|
 |Potenciômetro Rotativo|5kΩ|[R$1,09](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)|
 |Transistor NPN|BC337|[R$0,17](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)|
-|Resistor|470Ω|[R$0,08](https://www.baudaeletronica.com.br/resistor-470r-5-1-4w.html)|
 |Resistor|1kΩ|[R$0.08](https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html)|
-|Resistor|2kΩ|[R$0,08](https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html)|
+|Resistor|4,7kΩ|[R$0,08](https://www.baudaeletronica.com.br/resistor-4k7-5-1-4w.html)|
 
 
 ## Os componentes
